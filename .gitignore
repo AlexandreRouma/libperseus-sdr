@@ -33,3 +33,5 @@ stamp-h1
 libperseus-sdr.pc
 /build
 build/
+old/
+/old
