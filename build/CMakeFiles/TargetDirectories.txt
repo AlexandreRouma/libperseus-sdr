@@ -1,3 +1,0 @@
-C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/CMakeFiles/perseus-sdr.dir
-C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/CMakeFiles/ZERO_CHECK.dir
