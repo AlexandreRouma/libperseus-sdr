@@ -1,0 +1,45 @@
+EXPORTS 
+	__ms_vsnprintf 	 DATA
+	fpgaImgTbl 	 DATA
+	fwHexRecTable 	 DATA
+	nFpgaImages 	 DATA
+	perseus_dbg_level 	 DATA
+	__local_stdio_printf_options
+	fprintf
+	perseus_close
+	perseus_errorstr
+	perseus_exit
+	perseus_firmware_download
+	perseus_fx2_download_std_firmware
+	perseus_fx2_fpga_config_sr
+	perseus_fx2_ram_write
+	perseus_fx2_read_eeprom
+	perseus_fx2_reset
+	perseus_fx2_set_porte
+	perseus_fx2_shutdown
+	perseus_fx2_sio
+	perseus_fx2_sioex
+	perseus_get_attenuator_values
+	perseus_get_product_id
+	perseus_get_sampling_rates
+	perseus_init
+	perseus_input_queue_cancel
+	perseus_input_queue_check_completion
+	perseus_input_queue_completed
+	perseus_input_queue_create
+	perseus_input_queue_free
+	perseus_is_preserie
+	perseus_open
+	perseus_set_adc
+	perseus_set_attenuator
+	perseus_set_attenuator_in_db
+	perseus_set_attenuator_n
+	perseus_set_ddc_center_freq
+	perseus_set_debug
+	perseus_set_sampling_rate
+	perseus_set_sampling_rate_n
+	perseus_start_async_input
+	perseus_stop_async_input
+	poll_libusb_thread_fn
+	snprintf
+	vsnprintf

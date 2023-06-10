@@ -1,0 +1,10 @@
+^C:\USERS\RYZERTH\DOCUMENTS\CODE\LIBPERSEUS-SDR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ryzerth/Documents/Code/libperseus-sdr -BC:/Users/ryzerth/Documents/Code/libperseus-sdr/build --check-stamp-file C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

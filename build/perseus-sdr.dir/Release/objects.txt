@@ -1,0 +1,5 @@
+C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/perseus-sdr.dir/Release/fpga_data.obj
+C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/perseus-sdr.dir/Release/perseus-in.obj
+C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/perseus-sdr.dir/Release/perseus-sdr.obj
+C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/perseus-sdr.dir/Release/perseuserr.obj
+C:/Users/ryzerth/Documents/Code/libperseus-sdr/build/perseus-sdr.dir/Release/perseusfx2.obj
