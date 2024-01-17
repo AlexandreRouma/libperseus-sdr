@@ -8,7 +8,6 @@ file(GLOB_RECURSE SRC "src/*.c")
 add_library(perseus-sdr SHARED ${SRC})
 
 if (MSVC)
-    find_package(libusb CONFIG REQUIRED)
     target_include_directories(perseus-sdr PRIVATE ${LIBUSB_INCLUDE_DIRS})
     target_link_libraries(perseus-sdr PRIVATE ${LIBUSB_LIBRARIES})
 elseif (ANDROID)
